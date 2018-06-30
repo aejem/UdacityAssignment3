@@ -1,28 +1,16 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Pixel Art Maker!</title>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Monoton">
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <h1>Lab: Pixel Art Maker</h1>
+# Pixel Art Maker Project
 
-    <h2>Choose Grid Size</h2>
-    <form id="sizePicker">
-        Grid Height:
-        <input type="number" id="inputHeight" name="height" min="1" value="1">
-        Grid Width:
-        <input type="number" id="inputWeight" name="width" min="1" value="1">
-        <input type="submit">
-    </form>
+## Table of Contents
 
-    <h2>Pick A Color</h2>
-    <input type="color" id="colorPicker">
+* [Instructions](#instructions)
+* [Contributing](#contributing)
 
-    <h2>Design Canvas</h2>
-    <table id="pixelCanvas"></table>
+## Instructions
 
-    <script src="designs.js"></script>
-</body>
-</html>
+To get started, open `designs.js` and start building out the app's functionality.
+
+For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+
+## Contributing
+
+This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
