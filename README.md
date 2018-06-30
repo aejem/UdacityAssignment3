@@ -1,2 +1,0 @@
-# UdacityAssignment3
-pixermaker
